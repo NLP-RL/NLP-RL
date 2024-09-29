@@ -1,6 +1,6 @@
-- 👋 Set of Projects related to NLP and Reinforcement Learning (NLP-RL)
-- 👀 Creator and Manager: Abhisek Tiwari
+- 👋 Hi, I hope you will enjoy the Research Projects
 - 🌱 Set of Projects related to NLP and Reinforcement Learning (NLP-RL)
+- 👀 Creator and Manager: Abhisek Tiwari
 - 📫 How to reach me - abhisektiwari2014@gmail.com
 
 <!---
